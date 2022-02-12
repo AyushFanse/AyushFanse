@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Amazon Web Services.
 - 💬 Ask me about ReactJS, NodeJS, MongoDB.
 - 🔗 Portfolio: [My Portfolio.](https://ayush-fanse-portfolio.netlify.app) 
-- 📄 Resume: [My Resume.](https://drive.google.com/file/d/18vG_TCYam37u6LHWKVEwAUI_EidE5bcB/view?usp=sharing)
+- 📄 Resume: [My Resume.](https://drive.google.com/file/d/1rW6F8zuv4EoSTcyvt_3hcY2wXfrN_X9e/view?usp=sharing)
 - 📫 How to reach me: [ayush.fanse@gmail.com.](ayush.fanse@gmail.com)
 
 <hr>
