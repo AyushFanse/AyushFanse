@@ -83,8 +83,8 @@
 
 ### Connect with me:
 <p align="center">
-  <a href = "www.linkedin.com/in/ayush-fanse/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://www.instagram.com/___.prince_2.___/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href = "https://www.linkedin.com/in/ayush-fanse/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = "https://www.instagram.com/___.prince_2.___/" ><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 <hr>
