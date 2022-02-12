@@ -7,7 +7,10 @@
 </div>
 
 <hr>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
+
+## 🙋‍♂️ About Me
 - 🔭 I’m currently working on Web Scrapping.
 - 🌱 I’m currently learning Amazon Web Services.
 - 💬 Ask me about ReactJS, NodeJS, MongoDB.
@@ -51,21 +54,42 @@
 
 <hr>
 
+<h2>Status</h2>
+<p align="center">
+    <a href="https://github.com/AyushFanse/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AyushFanse's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushFanse&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<hr>
+
 <h2>Git Status</h2>
-<a href="https://github.com/AyushFanse">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushFanse&show_icons=true&theme=light&line_height=27" alt="Ayush's github stats"/>
-</a>
+<p align="center">
+  <a href="https://github.com/AyushFanse">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushFanse&show_icons=true&theme=react&hide_border=true&bg_color=060A0CD0" alt="AyushFanse's github stats"/>
+  </a>
+</p>
 
 <hr>
 
 <h2>Coding Languages Status</h2>
-<a href="https://github.com/AyushFanse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushFanse&theme=light&hide_langs_below=1" alt="AyushFanse" />
-</a>
+<p align="center">
+  <a href="https://github.com/AyushFanse" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushFanse&theme=react&hide_border=true&bg_color=060A0CD0" alt="AyushFanse" />
+  </a>
+</p>
 
 <hr>
 
-<div align="center">
+### Connect with me:
+<p align="center">
+  <a href = "www.linkedin.com/in/ayush-fanse/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = "https://www.instagram.com/___.prince_2.___/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+
+<hr>
+
+<div align="center"> 
   
 ### Show some ❤️ by starring some of the repositories!
   
