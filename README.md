@@ -11,7 +11,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on Memories keeping website.
+- 👨🏻‍💻 I’m currently working on Memories keeping website.
 - 🌱 I’m currently learning Redux <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"> and Amazon Web Services <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">.
 - 💬 Ask me about ReactJS <img height="15" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/react.png">, NodeJS <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">, MongoDB <img height="15" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/mongo.png">.
 - 🔗 Portfolio: [My Portfolio.](https://ayush-fanse-portfolio.netlify.app) 
@@ -30,7 +30,8 @@
 <code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/npm.png"></code>
 <code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/yarn.png"></code>
 <code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/react.png"></code>
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/material.png"></code>
+<code><img height="35" src="https://avatars.githubusercontent.com/u/33663932?s=40&v=4"></code>
+<code><img height="35" src="https://avatars.githubusercontent.com/u/32372333?s=40&v=4"></code>
 <code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/express.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/postman.png"></code>
