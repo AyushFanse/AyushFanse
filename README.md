@@ -16,7 +16,7 @@
 - 💬 Ask me about ReactJS <img height="15" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/react.png">, NodeJS <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">, MongoDB <img height="15" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/mongo.png">.
 - 🔗 Portfolio: [My Portfolio.](https://ayush-fanse-portfolio.netlify.app) 
 - 📄 Resume: [My Resume.](https://drive.google.com/drive/folders/1iiVzZXIdACduC3j2ZHKiUJnIhL-wO8lb)
-- 📫 How to reach me: [Click here to mail me.](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=ayush.fanse@gmail.com)
+- 📫 How to reach me: [Mail](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=ayush.fanse@gmail.com) or [WhatsApp](https://api.whatsapp.com/send?phone=+918483868279)
 
 <hr>
 
