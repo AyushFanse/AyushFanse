@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush Fanse.!
+### Hello  <img height="27px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Ayush Fanse.!
   
 </div>
 
@@ -13,28 +13,28 @@
 ## 🙋‍♂️ About me
 - 👨🏻‍💻 I’m currently working on Memories keeping website.
 - 🌱 I’m currently learning Redux <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"> and Amazon Web Services <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">.
-- 💬 Ask me about ReactJS <img height="15" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/react.png">, NodeJS <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">, MongoDB <img height="15" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/mongo.png">.
+- 💬 Ask me about ReactJS <img height="15" src="https://i.ibb.co/P4XzjFx/react.png">, NodeJS <img height="15" src="https://i.ibb.co/c38zMwp/node.png">, MongoDB <img height="15" src="https://i.ibb.co/S7Q3Zp5/mongo.png">.
 - 🔗 Portfolio: [My Portfolio.](https://ayush-fanse-portfolio.netlify.app) 
-- 📄 Resume: [My Resume.](https://drive.google.com/drive/folders/1iiVzZXIdACduC3j2ZHKiUJnIhL-wO8lb)
-- 📫 How to reach me: [Mail](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=ayush.fanse@gmail.com) or [WhatsApp](https://api.whatsapp.com/send?phone=+918483868279)
+- 📄 Resume: [My Resume.](https://drive.google.com/file/d/1UFGskYMQzwOCCFf-33vSYBn-NoGmtjzb/view?usp=sharing)
+- 📫 How to reach me: [Mail](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=ayush.fanse@gmail.com)
 
 <hr>
 
 <h2>Tech used</h2>
 
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/html.png"></code>
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/css.png"></code>
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/javascript.png"></code>
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/bootstrap.png"></code>
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/mdb.jpg"></code>
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/npm.png"></code>
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/yarn.png"></code>
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/react.png"></code>
-<code><img height="35" src="https://avatars.githubusercontent.com/u/33663932?s=40&v=4"></code>
-<code><img height="35" src="https://avatars.githubusercontent.com/u/32372333?s=40&v=4"></code>
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/express.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="35" src="https://github.com/AyushFanse/Ayush_Fanse_Portfolio/blob/main/public/Media/My-Skills/mongo.png"></code>
+<code><img height="35" src="https://i.ibb.co/z4NfKL1/html.png"></code>
+<code><img height="35" src="https://i.ibb.co/1KtJ4xz/css.png"></code>
+<code><img height="35" src="https://i.ibb.co/XSTgHc6/javascript.png"></code>
+<code><img height="35" src="https://i.ibb.co/VpVCZSQ/bootstrap.png"></code>
+<code><img height="35" src="https://i.ibb.co/QFKWSZz/image.png"></code>
+<code><img height="35" src="https://i.ibb.co/rkpjZc9/npm.png"></code>
+<code><img height="35" src="https://i.ibb.co/BLKm31p/yarn.png"></code>
+<code><img height="35" src="https://i.ibb.co/P4XzjFx/react.png"></code>
+<code><img height="35" src="https://i.ibb.co/j5jNgj4/material.png"></code>
+<code><img height="35" src="https://i.ibb.co/dm07MYH/32372333-s-40-v-4.png"></code>
+<code><img height="35" src="https://i.ibb.co/vsHR1km/express.png"></code>
+<code><img height="35" src="https://i.ibb.co/c38zMwp/node.png"></code> 
+<code><img height="35" src="https://i.ibb.co/S7Q3Zp5/mongo.png"></code>
 
 <hr>
 
@@ -98,6 +98,7 @@
 <p align="center">
   <a href = "https://www.linkedin.com/in/ayush-fanse/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = "https://www.instagram.com/___.prince_2.___/" ><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href = "https://wa.me/8483868279" ><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
 </p>
 
 <hr>
