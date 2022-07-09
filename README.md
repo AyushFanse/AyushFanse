@@ -13,9 +13,9 @@
 ## 🙋‍♂️ About me
 - 🌱 I’m currently learning Redux <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"> and Amazon Web Services <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">.
 - 💬 Ask me about ReactJS <img height="15" src="https://i.ibb.co/P4XzjFx/react.png">, NodeJS <img height="15" src="https://i.ibb.co/c38zMwp/node.png">, MongoDB <img height="15" src="https://i.ibb.co/S7Q3Zp5/mongo.png">.
-- 🔗 Portfolio: <a href="https://ayush-fanse-portfolio.netlify.app" target="_blank">My Portfolio</a>
-- 📄 Resume: <a href="https://drive.google.com/file/d/1hw7WqOls_I4vCbh0oKzWjvbmm-miVSCQ/view?usp=sharing" target="_blank">My Resume</a>
-- 📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=ayush.fanse@gmail.com" target="_blank">Mail Me</a>
+- 🔗 Portfolio: <code><a href="https://ayush-fanse-portfolio.netlify.app" target="_blank">My Portfolio</a></code>
+- 📄 Resume: <code><a href="https://drive.google.com/file/d/1hw7WqOls_I4vCbh0oKzWjvbmm-miVSCQ/view?usp=sharing" target="_blank">My Resume</a></code>
+- 📫 How to reach me: <code><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=ayush.fanse@gmail.com" target="_blank">Mail Me</a></code>
 
 <hr>
 
@@ -95,9 +95,9 @@
 
 ### Connect with me:
 <p align="center">
-  <a href = "https://www.linkedin.com/in/ayush-fanse/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://www.instagram.com/___.prince_2.___/" ><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <a href = "https://wa.me/8483868279" ><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
+  <code><a href = "https://www.linkedin.com/in/ayush-fanse/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a></code>
+  <code><a href = "https://www.instagram.com/___.prince_2.___/" ><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a></code>
+  <code><a href = "https://wa.me/8483868279" ><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a></code>
 </p>
 
 <hr>
